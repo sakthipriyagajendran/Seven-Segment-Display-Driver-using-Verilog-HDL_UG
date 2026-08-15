@@ -66,7 +66,7 @@ endmodule
 
 # Simulated Output
 <img width="1631" height="883" alt="Screenshot 2026-08-04 201627" src="https://github.com/user-attachments/assets/0b167712-0504-43b9-accf-ed696be1bb90" />
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/784705b5-cdaf-4230-b66a-674268fe833f" />
+<img width="938" height="1250" alt="bcd 5" src="https://github.com/user-attachments/assets/125f1597-73e8-460d-8751-9225d2860a1b" />
 
 
 # Conclusion
